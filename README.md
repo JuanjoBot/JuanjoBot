@@ -1,3 +1,5 @@
+![Juanjo Glez](banner.gif)
+
 # 💫 About Me:
 Soy un desarrollador apasionado con experiencia en tecnologías web y backend, siempre buscando mejorar y aprender con cada código que escribo.<br>En mis proyectos, suelo integrar frameworks como Bootstrap para front-end y Laravel o .NET en el back-end. También tengo experiencia trabajando con bases de datos relacionales y no relacionales y configurando entornos de trabajo colaborativo con Git.<br>💡 Siempre estoy buscando maneras de optimizar código y mejorar la experiencia de usuario, además de disfrutar participando en proyectos donde puedo aportar mi experiencia y resolver problemas del mundo real con tecnología.<br>
 
